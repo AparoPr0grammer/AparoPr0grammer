@@ -50,4 +50,4 @@ I am a software engineer focused on building scalable SaaS architectures and int
 
 ### 📊 My Stats
 
-![Alexander's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Alexander's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AparoPr0grammer&show_icons=true&theme=tokyonight)
